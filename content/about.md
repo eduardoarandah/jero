@@ -1,17 +1,13 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-+++
-
-Hugo is a static site engine written in Go.
+---
+title: "About me"
+date: "2020-01-01"
+---
 
 
-It makes use of a variety of open source projects including:
+I am currently finishing a double degree in applied mathematics and computer engineering at ITAM, and finishing my thesis on liquid brains, I was born and raised in Xalapa Veracruz. I like information processing, whether it is with my brain or in other computers.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+I have professional experience working with NLP in sentence classification with CNN's and language embeddings and I have done news information extraction with text vectorizers to inform portfolio allocation strategies. I have worked in other Machine learning areas designing recommender systems and other data science tasks.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Currently doing social work at (DataLabITAM)[http://datalabitam.com/].
 
+[Download my CV](/pdf/ARANDA_JERONIMO_RESUME_DS.pdf)

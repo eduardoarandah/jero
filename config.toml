@@ -16,10 +16,10 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "Title"
+    author = "Jerónimo Aranda"
+    title = "Jerónimo Aranda"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/jeronimo-aranda-barois.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
@@ -43,16 +43,16 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
+    github = "https://github.com/jeroaranda"
+    instagram = ""
     xing = ""
     linkedin = ""
-    twitter = "<username>"
-    facebook = "<username>"
+    twitter = "https://twitter.com/jeroaranda"
+    facebook = ""
     stackoverflow = ""
     telegram = ""
     email = "jeroaranda@gmail.com"
-    gravatar = "jeroaranda@gmail.com"
+    # gravatar = ""
 
 ## Main Menu
 [[menu.main]]
@@ -61,12 +61,17 @@ theme = "hyde-hyde"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
+    name = "Visualizations"
+    identifier = "visualizations"
+    weight = 150
+    url = "/visualizations/"
+[[menu.main]]
     name = "Portfolio"
     identifier = "portfolio"
     weight = 200
     url = "/portfolio/"
 [[menu.main]]
-    name = "About"
+    name = "About me"
     identifier = "about"
     weight = 300
     url = "/about/"
