@@ -13,7 +13,7 @@ sudo dpkg -i hugo*_Linux-64bit.deb
 Develop
 ------------------------
 
-git clone https://github.com/eduardoarandah/jero && cd jero
+git clone git@github.com:eduardoarandah/jero.git && cd jero
 
 hugo server -D
 
