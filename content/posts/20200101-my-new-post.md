@@ -1,7 +1,11 @@
 ---
-title: "My First Post"
-date: 2019-03-26T08:47:11+01:00
-draft: false
+author: "Eduardo Aranda"
+date: 2020-01-01
+linktitle: Publicación ejemplo
+title: Publicación ejemplo
+categories: [ "Development", "hugo" ]
+tags: ["hugo", "theme", "html", "css"]
+weight: 99
 ---
 
 # Title 1
@@ -20,7 +24,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # Code block
 
-´´´html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,4 +35,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
   <p>Test</p>
 </body>
 </html>
-´´´
+```
